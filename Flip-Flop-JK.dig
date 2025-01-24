@@ -31,7 +31,7 @@
           <string>Clk</string>
         </entry>
       </elementAttributes>
-      <pos x="120" y="300"/>
+      <pos x="180" y="300"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -168,7 +168,7 @@
       <p2 x="400" y="460"/>
     </wire>
     <wire>
-      <p1 x="120" y="300"/>
+      <p1 x="180" y="300"/>
       <p2 x="300" y="300"/>
     </wire>
     <wire>
