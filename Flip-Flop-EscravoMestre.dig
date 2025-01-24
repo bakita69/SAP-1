@@ -136,7 +136,12 @@
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>O-</string>
+        </entry>
+      </elementAttributes>
       <pos x="1400" y="500"/>
     </visualElement>
     <visualElement>
@@ -165,7 +170,12 @@
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>O</string>
+        </entry>
+      </elementAttributes>
       <pos x="1400" y="220"/>
     </visualElement>
   </visualElements>
