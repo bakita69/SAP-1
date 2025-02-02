@@ -193,31 +193,6 @@
       </elementAttributes>
       <pos x="1280" y="1120"/>
     </visualElement>
-    <visualElement>
-      <elementName>Not</elementName>
-      <elementAttributes/>
-      <pos x="1160" y="640"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Not</elementName>
-      <elementAttributes/>
-      <pos x="1160" y="760"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Not</elementName>
-      <elementAttributes/>
-      <pos x="1160" y="880"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Not</elementName>
-      <elementAttributes/>
-      <pos x="1160" y="1000"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Not</elementName>
-      <elementAttributes/>
-      <pos x="1160" y="1120"/>
-    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -234,10 +209,6 @@
     </wire>
     <wire>
       <p1 x="1080" y="640"/>
-      <p2 x="1160" y="640"/>
-    </wire>
-    <wire>
-      <p1 x="1200" y="640"/>
       <p2 x="1280" y="640"/>
     </wire>
     <wire>
@@ -318,10 +289,6 @@
     </wire>
     <wire>
       <p1 x="1080" y="1120"/>
-      <p2 x="1160" y="1120"/>
-    </wire>
-    <wire>
-      <p1 x="1200" y="1120"/>
       <p2 x="1280" y="1120"/>
     </wire>
     <wire>
@@ -349,12 +316,8 @@
       <p2 x="1000" y="680"/>
     </wire>
     <wire>
-      <p1 x="1200" y="1000"/>
-      <p2 x="1280" y="1000"/>
-    </wire>
-    <wire>
       <p1 x="1080" y="1000"/>
-      <p2 x="1160" y="1000"/>
+      <p2 x="1280" y="1000"/>
     </wire>
     <wire>
       <p1 x="580" y="620"/>
@@ -366,10 +329,6 @@
     </wire>
     <wire>
       <p1 x="1080" y="880"/>
-      <p2 x="1160" y="880"/>
-    </wire>
-    <wire>
-      <p1 x="1200" y="880"/>
       <p2 x="1280" y="880"/>
     </wire>
     <wire>
@@ -389,12 +348,8 @@
       <p2 x="1000" y="1080"/>
     </wire>
     <wire>
-      <p1 x="1200" y="760"/>
-      <p2 x="1280" y="760"/>
-    </wire>
-    <wire>
       <p1 x="1080" y="760"/>
-      <p2 x="1160" y="760"/>
+      <p2 x="1280" y="760"/>
     </wire>
     <wire>
       <p1 x="640" y="380"/>
