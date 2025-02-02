@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>Somador-Completo.dig</elementName>
+      <elementAttributes/>
+      <pos x="840" y="100"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Somador-Completo.dig</elementName>
+      <elementAttributes/>
+      <pos x="940" y="420"/>
+    </visualElement>
+  </visualElements>
+  <wires/>
+  <measurementOrdering/>
+</circuit>
