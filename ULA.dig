@@ -11,7 +11,7 @@
     <visualElement>
       <elementName>Somador-Completo.dig</elementName>
       <elementAttributes/>
-      <pos x="840" y="320"/>
+      <pos x="840" y="340"/>
     </visualElement>
     <visualElement>
       <elementName>Chave-lógica.dig</elementName>
@@ -131,7 +131,7 @@
           <string>EN2</string>
         </entry>
       </elementAttributes>
-      <pos x="-500" y="320"/>
+      <pos x="-500" y="340"/>
     </visualElement>
     <visualElement>
       <elementName>In</elementName>
@@ -528,7 +528,7 @@
       <p2 x="1180" y="960"/>
     </wire>
     <wire>
-      <p1 x="900" y="320"/>
+      <p1 x="920" y="320"/>
       <p2 x="1180" y="320"/>
     </wire>
     <wire>
@@ -570,6 +570,10 @@
     <wire>
       <p1 x="-500" y="340"/>
       <p2 x="840" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="900" y="340"/>
+      <p2 x="920" y="340"/>
     </wire>
     <wire>
       <p1 x="600" y="980"/>
@@ -802,6 +806,10 @@
     <wire>
       <p1 x="1000" y="1380"/>
       <p2 x="1000" y="1460"/>
+    </wire>
+    <wire>
+      <p1 x="920" y="320"/>
+      <p2 x="920" y="340"/>
     </wire>
     <wire>
       <p1 x="-140" y="40"/>
